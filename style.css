@@ -1,0 +1,15 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+.section1 {
+  height: 100vh;
+  background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1080,h=1920,fit=crop/tixlyvnpr7/nynne-schroder-unsplash-A0xnbgZ4WxTJlN3R.jpg");
+  background-position: center;
+}
+.textLarge {
+  font-size: 50px;
+}
